@@ -9,3 +9,4 @@ int main () {
 	centimos = 100*(pagado-precio);
 	cout <<"Hay que devolver: "<<centimos <<" céntimos" <<endl;
 }
+x
